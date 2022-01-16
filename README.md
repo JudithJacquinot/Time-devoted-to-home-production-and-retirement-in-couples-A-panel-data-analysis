@@ -9,3 +9,4 @@ retirement of husband or wife may have an important impact on the partner throug
 income, but also through the changes in the time spent by the retired partner on, for example,
 household production.
 
+This work was made in collaboration with Arthur De Amorim.
