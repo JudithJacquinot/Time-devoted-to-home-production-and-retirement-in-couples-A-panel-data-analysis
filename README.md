@@ -8,5 +8,6 @@ their social network and the activities on which they spend their time. For indi
 retirement of husband or wife may have an important impact on the partner through household
 income, but also through the changes in the time spent by the retired partner on, for example,
 household production.
+A replication work of the article from Eric Bonsang and Arthur Van Soest
 
 This work was made in collaboration with Arthur De Amorim.
